@@ -34,3 +34,16 @@ Al Parinds is the top-selling individual, followed by Rov Der and Jan Feb Mar Ap
 ### 6.Loyalty Card Usage:
 More customers have loyalty cards than do not.
 This suggests that loyalty programs are effective in encouraging repeat purchases.
+
+## Analysis process
+In this analysis, I leveraged data from three key tables: Orders, Customers, and Products, to gain valuable insights into the coffee sales performance. The primary focus was on understanding customer purchasing behavior, product preferences, and overall sales trends.
+
+### 1.Data Cleaning and Transformation:
+The Orders table was first cleaned and preprocessed to ensure accurate analysis, removing any duplicate records or inconsistencies. Various functions were applied to normalize and filter the data, enabling more efficient analysis.
+
+### 2.Customer Analysis:
+Using the XLOOKUP function, customer-related information such as Name, Email, and Country were extracted from the Customers table. This allowed us to link customer demographics with their purchase history for a more targeted analysis of customer behavior.
+
+### 3.Product Insights:
+Data from the Products table was integrated into the analysis using the INDEX-MATCH function. This provided insights into key product details such as Coffee Type, Roast Type, Size, Unit Price, and Loyalty Card Usage.
+By matching these details with the respective orders, I was able to identify top-performing coffee products, evaluate price sensitivity, and understand which product variants (e.g., size, roast) are most preferred by customers.
