@@ -1,11 +1,15 @@
 # CoffeeSalesDashboard
 
-![image](https://github.com/user-attachments/assets/de03221e-4d64-4f9b-bdfd-a04b34e813f6)
+![image](https://github.com/user-attachments/assets/7612e23a-f7ed-4307-8961-e69bc8bfed12)
+
 
 ## Key Insights:
 1.The month with the highest sales is September, which coincides with the holiday season.
+
 2.The country with the highest sales per capita is the United States.
+
 3.The most popular coffee type is Arabica, which is also the most expensive.
+
 4.Loyalty card holders spend more on average than non-loyalty card holders.
 
 ### 1.Overall Sales Trend:
@@ -26,7 +30,6 @@ This indicates a preference for high-quality Arabica beans among consumers.
 
 ### 5.Sales of the Individual:
 Al Parinds is the top-selling individual, followed by Rov Der and Jan Feb Mar Apr May.
-This suggests that certain individuals are more effective in selling coffee than others.
 
 ### 6.Loyalty Card Usage:
 More customers have loyalty cards than do not.
