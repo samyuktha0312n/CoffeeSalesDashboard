@@ -1,5 +1,7 @@
 # CoffeeSalesDashboard
 
+This analysis examines coffee sales performance using data from Orders, Customers, and Products tables. Key insights reveal trends in sales, customer behavior, product preferences, and loyalty card usage. By cleaning, transforming, and integrating data, actionable findings were derived to enhance understanding of market demand and customer purchasing patterns.
+
 ![image](https://github.com/user-attachments/assets/7612e23a-f7ed-4307-8961-e69bc8bfed12)
 
 
